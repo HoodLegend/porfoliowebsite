@@ -19,10 +19,8 @@ function Footer () {
             bottom-0
             font-bold 
             font-mono
-            w-full 
             text-center 
             p-4 
-            pin-b
             lg:text-2xl sm:text-lg md:text-xl
             shadow-sm
              ">
