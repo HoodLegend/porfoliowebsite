@@ -6,7 +6,7 @@ class About extends React.Component {
         return <div className='bg-blue-200 my-5 mx-10 font-mono text-size-sm font-bold px-4 py-2 text-gray-700   my-4 mx-4 leading-loose tracking-wide shadow-sm rounded-lg'>
             <div className='font-bold text-xl font-sans-serif text-align-center pt-2 pb-2'>
             <h2>About me</h2>
-            <img src={image} alt='profile pic' className='w-48 h-48 rounded-full flex-col inline-flex border-4 border-gray-600 border-solid shadow-sm' />
+            <img src={image} alt='profile pic' className='w-36 h-36 rounded-full flex-col inline-flex border-4 border-gray-600 border-solid shadow-sm' />
             </div>
             <div className='flex flex-col px-2 py-2'>
             <p> My name is Mofya Ndabala. I am a Student Studying Computer Science at the Copperbelt University.
