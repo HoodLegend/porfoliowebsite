@@ -10,9 +10,9 @@ class About extends React.Component {
             </div>
             <div className='flex flex-col px-2 py-2'>
             <p> My name is Mofya Ndabala. I am a Student Studying Computer Science at the Copperbelt University.
-                I like to build cool stuff that solving real world problems.
+                I like to build cool stuff that solve real world problems.
                 However, I describe myself as a team player and a fast Learner. 
-                You can check out my skills and a few of my projects <a href="Skills" className='underline hover:text-gray-900'>Here</a>
+                Here are a few of my skills and projects <a href="Skills" className='underline hover:text-gray-900'>Here</a>
             </p>
 
             </div>    
