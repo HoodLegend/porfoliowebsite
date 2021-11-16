@@ -3,7 +3,7 @@ import image from './images/img1.jpg';
 
 class About extends React.Component {
     render() { 
-        return <div className='bg-blue-200 my-5 mx-10 font-mono text-size-sm font-bold px-4 py-2 text-gray-700   my-4 mx-4 leading-loose tracking-wide shadow-sm rounded-lg'>
+        return <div className='bg-blue-200 my-5 mx-10 font-mono text-size-sm font-bold px-4 py-2 text-gray-700 leading-loose tracking-wide shadow-sm rounded-lg'>
             <div className='font-bold text-xl font-sans-serif text-align-center pt-2 pb-2'>
             <h2>About me</h2>
             <img src={image} alt='profile pic' className='w-36 h-36 rounded-full flex-col inline-flex border-4 border-gray-600 border-solid shadow-sm' />

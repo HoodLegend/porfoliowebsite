@@ -19,7 +19,6 @@ function Footer () {
             bottom-0
             font-bold 
             font-mono
-            text-center 
             p-4
             shadow-sm
              ">
