@@ -12,7 +12,7 @@ class About extends React.Component {
             <p> My name is Mofya Ndabala. I am a Student Studying Computer Science at the Copperbelt University.
                 I like to build cool stuff that solve real world problems.
                 However, I describe myself as a team player and a fast Learner. 
-                <a href="Skills" className='underline hover:text-gray-900'>Here</a> are a few of my skills and projects
+                <a href="Skills" className='underline hover:text-gray-900'>Here</a> are a few of my skills and projects.
             </p>
 
             </div>    
