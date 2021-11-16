@@ -24,7 +24,7 @@ function Footer () {
             lg:text-2xl sm:text-lg md:text-xl
             shadow-sm
              ">
-              <div className="mb-15 pb-4 font-bold relative">
+              <div className="my-5 py-2 font-bold relative">
                 <a className="pr-4 hover:text-gray-900" href="/" >Home</a>
                 <a className="pr-4 hover:text-gray-900" href="/About">About</a>
                 <a className="pr-4 hover:text-gray-900" href="/Contact">Contact</a>
